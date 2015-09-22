@@ -11,9 +11,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //hi there how you guys doing
-        System.out.print("Hello World");
-        System.out.println("wat up guys");
+//        this is a third line
     }
 
     @Override
